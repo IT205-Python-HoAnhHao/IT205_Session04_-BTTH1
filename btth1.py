@@ -1,5 +1,5 @@
 total_amount = int(input("Nhập tổng số tiền hóa đơn ban đầu:  "))
-# aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 reduced_amount = 0
 
 if total_amount >= 500000 :
